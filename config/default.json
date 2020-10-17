@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://DC:DCUser@cluster0.pqt3b.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "codemerx",
+    "githubClientId": "8b833786b903506e253e",
+    "githubSecret": "ea1203a3645383e07701bc113f63182760ffb1a0"
+}
